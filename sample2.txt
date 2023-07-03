@@ -1,0 +1,5 @@
+hey i am making new file with changes
+
+
+control return helped me edit this in mac 
+esc will help me exit editor mode and :wq will help me save the changes
